@@ -1,2 +1,2 @@
 # rsschool-cv
-# https://github.com/kudlao3/rsschool-cv/blob/gh-pages/cv.md
+# https://kudlao3.github.io/rsschool-cv/
